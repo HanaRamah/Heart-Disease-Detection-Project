@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+frozendict 
+yfinance 
+experta 
+streamlit
+joblib
+PyQt6
+plotly
+nbformat>=4.2.0
